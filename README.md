@@ -1,0 +1,1 @@
+This website was created to help individuals learn more about small road trips taken around the United States of America. We essentially used the HTML and CSS code from HTML basics to complete this assignment.  
